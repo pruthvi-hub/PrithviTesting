@@ -25,7 +25,7 @@ SECRET_KEY = 'aus72!lg-lwc*&9u4!^1b+67w6f4w@_cwaiov+cmaem0_yxv79'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['PRUTHVITESTING-env.eba-qyz3h2pz.eu-west-2.elasticbeanstalk.com']
 
 
 # Application definition
