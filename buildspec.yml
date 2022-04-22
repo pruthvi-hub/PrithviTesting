@@ -12,8 +12,6 @@ phases:
         commands:
             - python --version
             - pylint --disable=C *.py **/*.py
-            - pylint --disable=C0114 *.py **/*.py
-            - pylint --disable=R,C0114 *.py **/*.py
 artifacts:
     files:
         - '**/*'
